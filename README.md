@@ -21,7 +21,7 @@ uv venv
 uv add supabase
 ```
 
-This installs the official Supabase Python client from [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py).
+This installs the official Supabase Python client from [supabase/supabase-py](https://github.com/supabase/supabase-py).
 
 ### 3. Connect to Supabase
 
@@ -44,7 +44,7 @@ supabase: Client = create_client(url, key)
 - Supabase account
 - A Supabase project and database set up
 
-## 📂 Project Structure (Example)
+## 📂 Project Structure
 
 ```
 supabase-python-learn/
@@ -58,3 +58,5 @@ supabase-python-learn/
 
 - [Supabase Docs](https://supabase.com/docs)
 - [supabase-py GitHub](https://github.com/supabase/supabase-py)
+
+> ⚠️ **Note**: Some parts of this file were generated with the help of AI (ChatGPT) to help document and format the content more effectively.
